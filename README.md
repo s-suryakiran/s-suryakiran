@@ -1,4 +1,4 @@
-- 👋  Hi, I’m @s-suryakiran-sureshkumar
+- 👋  Hi, I’m @s-suryakiran
 - 👀  I’m interested in Data Analytics and Cloud Computing
 
 
