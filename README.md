@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Currently pursuing my Master of Science in Computer Science at New York University.<br>I have around 1.5 years of work experience in the field of Data Science, Machine Learning, and Software Developement.
+I'm Currently pursuing my Master of Science in Computer Science at New York University.<br>I have about 2 years of work experience in the field of Data Science, Machine Learning, and Software Developement.
 I also occasionally write some articles on deep learning. You can check it out using: https://medium.com/@suryakiransureshkumar/optimizing-compute-intensive-models-using-model-pruning-2d55a0211929
 
 ## 🌐 Socials:
