@@ -1,6 +1,7 @@
 # 💫 About Me:
-I'm Currently pursuing my Master of Science in Computer Science at New York University.<br>I am super interested in the fields of Data Science, Machine Learning, and Software Developement.
-I also occasionally write some articles on deep learning. You can check it out using: https://medium.com/@suryakiransureshkumar/optimizing-compute-intensive-models-using-model-pruning-2d55a0211929
+I am a Software Engineer at Goldman Sachs, with a Master of Science in Computer Science from New York University. My core interests lie in Data Science, Machine Learning, and Software Development. I enjoy exploring the intersection of efficient algorithms and scalable system design.
+
+Outside of work, I occasionally write technical articles on deep learning and model optimization. You can read one of my recent pieces here: https://medium.com/@suryakiransureshkumar/optimizing-compute-intensive-models-using-model-pruning-2d55a0211929
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suryakiran-sureshkumar/) 
